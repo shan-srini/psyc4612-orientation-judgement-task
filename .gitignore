@@ -1,3 +1,3 @@
-lib
-include
-bin
+venv
+__pycache__/
+.DS_Store
