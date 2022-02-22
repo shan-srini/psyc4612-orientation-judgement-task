@@ -12,7 +12,7 @@ _inspired by https://englelab.gatech.edu/attentioncontroltasks_
 
 ## TODO
 
-- [ ] Stimuli may have overlapping line locations
+- [x] Stimuli may have overlapping line locations
   - idea: naive approach is probably keeping a set of all pixels occupied by lines then continuously regenerating until getting all points that aren't contained in the set
   - idea: better approach is a grid layout and marking certain grid points as taken or not using set
 - [ ] Need to output an image with text that defines target color before each stimuli
